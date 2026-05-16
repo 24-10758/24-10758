@@ -1,0 +1,28 @@
+ejercicio 1
+
+# Ley de De Morgan 1:
+# ¬(P ∧ Q) ≡ (¬P ∨ ¬Q)
+
+de_morgan1 = lambda p, q: (not (p and q)) == ((not p) or (not q))
+
+
+# Ley de De Morgan 2:
+# ¬(P ∨ Q) ≡ (¬P ∧ ¬Q)
+
+de_morgan2 = lambda p, q: (not (p or q)) == ((not p) and (not q))
+
+
+# Ejemplos de uso
+print(de_morgan1(True, False))
+print(de_morgan2(True, False))
+
+
+ejercicio 2
+
+def succ(z):
+    return z + 1
+
+
+# Ejemplos de uso
+print(succ(-100))
+print(succ(7))
