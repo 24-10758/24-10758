@@ -1,0 +1,19 @@
+ejercicio 3
+Nombre: [Mariangeles Rojas]
+Materia: [computacion I]
+Actividad: Promedio y varianza de una muestra
+Uso de IA: ChatGPT (OpenAI)
+Fecha: 09/05/2026
+
+Nombre: [Mariangeles Rojas]
+Materia: [computacion I]
+Actividad: Coeficiente de correlación de Pearson
+Modelo de IA usado: ChatGPT GPT-5.5 (OpenAI)
+Fecha: 10/05/2026
+
+ejercicio 5
+Nombre: [Mariangeles Rojas]
+Materia: [computacion I]
+Actividad: Conversión entre sistemas numéricos alienígenas
+Modelo de IA usado: ChatGPT GPT-5.5 (OpenAI)
+Fecha: 10/05/2026
